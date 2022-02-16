@@ -6,3 +6,17 @@ Laravel Step By Step Guide For Developer
 ## laravel Training Module 
 
 > laravel configuration offline and Online
+
+## Laravel Structure
+
+> App :
+
+> bootstrap :
+
+> config
+
+> database 
+
+> public
+
+> resourse : its used for view 
