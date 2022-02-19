@@ -1,4 +1,4 @@
-# Default Router
+## Default Router
 
 <pre>
 Router::get('/',function(){
@@ -6,7 +6,7 @@ Router::get('/',function(){
 });
 </pre>
 
-# Page Router
+## Page Router
 
 <pre>
 Router::get('/hello',function(){
