@@ -1,11 +1,12 @@
 # laravel
 Laravel Step By Step Guide For Developer
 
-<img src="Laravel-logo.jpg">
+## How To Setup Laravel
 
-## laravel Training Module 
+> install composer
+> install laravel installer
+> create Project
 
-> laravel configuration offline and Online
 
 ## Laravel Structure
 
