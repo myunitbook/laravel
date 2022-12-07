@@ -42,3 +42,5 @@ Laravel PHP Framework
 > public
 
 > resourse : its used for view 
+
+> routes : web.php
