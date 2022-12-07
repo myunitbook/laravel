@@ -13,6 +13,10 @@ Laravel PHP Framework
 
 > php artisan serve
 
+> php artisan serve 
+
+> php artisan serve --port=1000
+
 <hr>
 
 ## The Laravel Installer
