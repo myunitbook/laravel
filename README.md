@@ -29,19 +29,6 @@ Laravel PHP Framework
 
 > php artisan serve
 
-
-# laravel
-Laravel Step By Step Guide For Developer
-
-## How To Setup Laravel
-
-> install composer
-
-> install laravel installer
-
-> create Project
-
-
 ## Laravel Structure
 
 > App :
