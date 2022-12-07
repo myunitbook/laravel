@@ -41,6 +41,6 @@ Laravel PHP Framework
 
 > public
 
-> resourse : its used for view 
+> resourse : its used for view (blade) template Engine
 
 > routes : web.php
